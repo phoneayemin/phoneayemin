@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phone Aye Min</h1>
 <h3 align="center">A passionate front-end developer from Myanmar</h3>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY0MXFtZGkyMmJmYnZ5OW84MzBubjM4bWdzc3h2OTNzYjkyeG0yYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="css3" width="40" height="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoneayemin&label=Profile%20views&color=0e75b6&style=flat" alt="phoneayemin" /> </p>
 
