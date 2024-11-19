@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoneayemin&label=Profile%20views&color=0e75b6&style=flat" alt="phoneayemin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoneayemin" alt="phoneayemin" /></a> </p>
-
 - 🔭 I’m currently working on [Better Jobs](https://betterjobs.co/)
 
 - 💬 Ask me about **Javascript, Vue**
