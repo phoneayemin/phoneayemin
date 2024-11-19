@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phone-aye-min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phone-aye-min" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/phoneayemin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phoneayemin" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
